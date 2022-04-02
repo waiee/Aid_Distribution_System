@@ -1,5 +1,5 @@
 # Aid_Distribution_System
-Aid Distribution System, fully developed by Java &amp; JavaFX. - HTML for documentation.
+Aid Distribution System, fully developed by Java &amp; JavaFX - HTML for documentation.
 
 1) Donor – A donor is an individual or organization who donates aid to a distribution center (DC).
 A donor has a name and a phone. A donor can perform the following tasks in the system:
